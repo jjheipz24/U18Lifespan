@@ -1,0 +1,5 @@
+
+Vue.component('', {
+    props: [],
+    template: ``
+});
