@@ -16,13 +16,4 @@ $(document).ready(function () {
     $(this).scrollTop(0);
 });
 
-/*Controls parallax*/
-/*$(".paroller").paroller();
-$("").paroller({
-    factor: 0.2,
-    factorXs: 0.2,
-    type: 'foreground',
-    direction: 'vertical'
-});*/
-
 
