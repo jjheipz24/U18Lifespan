@@ -2757,6 +2757,7 @@ article.special {
 #intro{
 	margin: 0 50px;
 	font-family: "Poppins", sans-serif;
+	opacity: 1;
 }
 
 #tech-comm{
