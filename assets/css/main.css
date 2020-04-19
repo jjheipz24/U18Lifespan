@@ -2755,18 +2755,28 @@ article.special {
 }
 
 #intro{
-	margin: 0 30px;
+	margin: 0 50px;
 	font-family: "Poppins", sans-serif;
+}
+
+#tech-comm{
+	margin-bottom: 50px;
+}
+
+header h2{
+	margin-bottom: 20px;
 }
 
 header p {
 	position: relative;
-	margin: 0 0 1.5rem 0;
+	margin: 0 0 0.5rem 0;
 	padding-top: 15px;
+	color: #bbb;
 }
 
 #sub-head {
 	font-size: 1.25rem;
+	padding-top: 0px;
 }
 
 header h2+p {
@@ -2784,10 +2794,6 @@ header h5+p,
 header h6+p {
 	font-size: 0.9rem;
 	margin-top: -0.6rem;
-}
-
-header p {
-	color: #bbb;
 }
 
 /* Table */
