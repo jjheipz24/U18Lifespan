@@ -2755,7 +2755,7 @@ article.special {
 }
 
 #intro,
-#three {
+#three, #info {
 	margin: 0 50px;
 	font-family: "Poppins", sans-serif;
 }
@@ -2775,7 +2775,7 @@ header p {
 	color: #bbb;
 }
 
-#sub-head {
+.sub-head {
 	font-size: 1.25rem;
 	padding-top: 0px;
 }
