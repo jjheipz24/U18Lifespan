@@ -18,5 +18,4 @@ Sources for Info:
 <li><a href="https://www.pewresearch.org/internet/2015/08/06/chapter-5-conflict-friendships-and-technology/">Chapter 5: Conflict, Friendships and Technology</a></li>
 <li><a href="https://www.pewresearch.org/internet/2015/08/06/teens-technology-and-friendships/">Teens, Technology and Friendships</a></li>
 <li><a href="https://www.cox.com/content/dam/cox/aboutus/documents/tween-internet-safety-survey.pdf">2014 Teen Internet Safety Survey</a></li>
-
 </ol>
