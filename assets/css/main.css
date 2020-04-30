@@ -4444,3 +4444,21 @@ body.is-mobile .banner>article {
 	}
 
 }
+
+/***My own styles****/
+.topic h3{
+	font-weight: 500;
+	font-size: 1.5rem;
+}
+.topic p{
+	color: black;
+	opacity: 0.7;
+	font-weight: 400;
+}
+.img-left{
+	float: left;
+}
+
+.img-right{
+	float: right;
+}
