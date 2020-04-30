@@ -4446,6 +4446,9 @@ body.is-mobile .banner>article {
 }
 
 /***My own styles****/
+.topic{
+	margin-bottom: 50px;
+}
 .topic h3{
 	font-weight: 500;
 	font-size: 1.5rem;
@@ -4457,8 +4460,14 @@ body.is-mobile .banner>article {
 }
 .img-left{
 	float: left;
+	margin-right: 25px;
+}
+
+#gsuite{
+	margin-right: 0;
 }
 
 .img-right{
 	float: right;
+	margin-left: 25px;
 }
